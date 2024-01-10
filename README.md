@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A-kay27
-- 👀 I’m interested in Android Development, Home Automation, Meachine learning, Data Science, IOT.
+- 👀 I’m interested in Android Development, Home Automation, Machine learning, IOT.
 - 🌱 I’m currently learning Android Development with Kotlin
 - 💞️ I’m looking to collaborate on Android
 - 📫 Reach me mailto: akshaysankhla01@gmail
